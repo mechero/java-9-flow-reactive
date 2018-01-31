@@ -1,10 +1,12 @@
 # Java 9 Flow Example - TPD.io
 
+![The Reactive Magazine Publisher ](img/thereactivepublisher.png)
+
 ## Description
 
 This is a simple project that shows how to use Java 9's Flow API to create a Reactive Programming example. It's based on a story: a Magazine Publisher with two different Subscribers, one of them being too slow to pick items. 
 
-The guide [Reactive Programming with Java 9 Flow](https://thepracticaldeveloper.com) explains this code and the fictional use case with detail.
+The guide [Reactive Programming with Java 9 Flow](https://thepracticaldeveloper.com/2018/01/31/reactive-programming-java-9-flow/) explains this code and the fictional use case with detail.
 
 ## Code Structure
 
